@@ -17,10 +17,14 @@
 	padding-left:30px;
 }
 .fooddiv{
-	background-color:pink;
+	background-color:#D0D0D0;
 	text-align:center;
 	margin:10px;
 	border-radius:15px;
+}
+.star{
+	color:	#FFDF00;
+	display:inline-block;
 }
 
 
