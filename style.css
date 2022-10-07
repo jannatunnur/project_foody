@@ -1,4 +1,11 @@
 .heading{
 	color:tomato;
-	
+}
+.burger{
+	height:150px;
+	width:150px;
+	border-radius:50%;
+}
+.prntdive{
+	display:flex;
 }
