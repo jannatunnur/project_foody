@@ -1,11 +1,26 @@
 .heading{
 	color:tomato;
 }
-.burger{
+.prntdive{
+	display:flex;
+	margin:0 auto;
+}
+
+
+
+.food{
 	height:150px;
 	width:150px;
 	border-radius:50%;
+	margin-right:100px;
+	margin-left:50px;
+	padding-left:30px;
 }
-.prntdive{
-	display:flex;
+.fooddiv{
+	background-color:pink;
+	text-align:center;
+	margin:10px;
+	border-radius:15px;
 }
+
+
